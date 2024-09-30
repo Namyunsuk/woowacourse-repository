@@ -63,9 +63,10 @@
 - 어려운 요구사항의 뷰를 구현하며 화면에 그려지는 요소에 대한 이해를 높인다.
 - 선언형 프로그래밍 패러다임을 소개하고 컴포즈의 기본적인 문법을 익힌다. 컴포즈에서 제공하는 여러 가지 컴포넌트를 활용하고 복잡하지 않고 유연한 컴포넌트 설계 노하우와 상태 관리 팁을 얻어간다.
 
-| Project |Repository | Pull Request & Review(step1) | Pull Request & Review(step2, 3) |
-|:-----:|:-----:|:---:|:---:|
-|만들면서 배우는 DI <br>|[repository](https://github.com/Namyunsuk/android-di)|[step1](https://github.com/woowacourse/android-di/pull/84)|[step2, 3](https://github.com/woowacourse/android-di/pull/106)|
+| Project |Repository | Pull Request & Review(step1) | Pull Request & Review(step2, 3) | Pull Request & Review(step4) |
+|:-----:|:-----:|:---:|:---:|:---:|
+|만들면서 배우는 DI <br>|[repository](https://github.com/Namyunsuk/android-di)|[step1](https://github.com/woowacourse/android-di/pull/84)|[step2, 3](https://github.com/woowacourse/android-di/pull/106)|[step4](https://github.com/woowacourse/android-di/pull/135)|
+|뷰 챌린지 <br>|[repository](https://github.com/Namyunsuk/android-paint)|[step1](https://github.com/woowacourse/android-paint/pull/81)|||
 
 <br/>
 
