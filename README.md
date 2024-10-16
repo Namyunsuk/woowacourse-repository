@@ -67,5 +67,6 @@
 |:-----:|:-----:|:---:|:---:|:---:|
 |만들면서 배우는 DI <br>|[repository](https://github.com/Namyunsuk/android-di)|[step1](https://github.com/woowacourse/android-di/pull/84)|[step2, 3](https://github.com/woowacourse/android-di/pull/106)|[step4](https://github.com/woowacourse/android-di/pull/135)|
 |뷰 챌린지 <br>|[repository](https://github.com/Namyunsuk/android-paint)|[step1](https://github.com/woowacourse/android-paint/pull/81)|[step2, 3](https://github.com/woowacourse/android-paint/pull/96)||
+|학습 테스트로 배우는 Compose <br>|[repository](https://github.com/woowacourse/android-signup)|[step1, 2](https://github.com/woowacourse/android-paint/pull/81)|||
 
 <br/>
